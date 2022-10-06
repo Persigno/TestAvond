@@ -1,1 +1,10 @@
 Persigno
+
+
+git add .
+
+git commit -m "aangepast"
+
+git status
+
+git push -u origin main
